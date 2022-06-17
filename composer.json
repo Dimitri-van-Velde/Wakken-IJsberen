@@ -1,0 +1,15 @@
+{
+    "name": "sem_hoogstad/wakkenenijsberen",
+    "autoload": {
+        "psr-4": {
+            "WakkenEnIjsberen\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Shoogstad",
+            "email": "shoogstad@icloud.com"
+        }
+    ],
+    "require": {}
+}
